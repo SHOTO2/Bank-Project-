@@ -1,4 +1,4 @@
-CRUB System Using File Handling ,Windows Form and C# .NET
+CRUD System Using File Handling ,Windows Form and C# .NET
 
 -Add Client
 -Update Client Wilth Select
